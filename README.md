@@ -64,6 +64,13 @@ Fast archiving of large log files or datasets
 
 Backup compression with minimal CPU bottleneck
 
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/82442dca-dc3d-4606-ae0c-fb52df398b9d)
+![Image](https://github.com/user-attachments/assets/8a3c10bd-5dbe-4794-85c3-70ec870f588e)
+![Image](https://github.com/user-attachments/assets/17b0d30a-aad4-40d7-81c6-d4d3404f33ca)
+
 Real-time systems requiring low-latency compression
 
 Software projects that deal with parallelizable I/O operations
